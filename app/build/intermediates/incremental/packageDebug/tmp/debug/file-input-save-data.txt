@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 17 10:48:25 SGT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\TARUC\\Desktop\\Week 5\\WalkMyAndroid-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
